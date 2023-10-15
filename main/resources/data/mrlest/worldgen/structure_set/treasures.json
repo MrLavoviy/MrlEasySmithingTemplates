@@ -1,0 +1,22 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 34145872,
+    "separation": 12,
+    "spacing": 24
+  },
+  "structures": [
+    {
+      "structure": "mrlest:cold",
+      "weight": 1
+    },
+    {
+      "structure": "mrlest:normal",
+      "weight": 1
+    },
+    {
+      "structure": "mrlest:warm",
+      "weight": 1
+    }
+  ]
+}

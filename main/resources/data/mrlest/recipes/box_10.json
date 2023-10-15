@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:tide_armor_trim_smithing_template"
+    },
+    {
+      "item": "mrlest:smithing_template_replacer"
+    }
+  ],
+  "result": {
+    "item": "mrlest:smithing_templates_box"
+  }
+}
